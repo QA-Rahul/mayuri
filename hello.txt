@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is testing demo
+=======
+How are you? This is demo from me.
+>>>>>>> ee24629a616c186048e0d002a5c6ce4095b84e2e
